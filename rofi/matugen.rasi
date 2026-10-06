@@ -1,0 +1,7 @@
+* {
+    rofi-bg: #101417;
+    rofi-fg: #e0e3e8;
+    rofi-surface: #1c2024;
+    rofi-accent: #97ccf8;
+    rofi-border: #8b9198;
+}
