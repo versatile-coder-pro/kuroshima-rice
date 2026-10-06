@@ -1,0 +1,22 @@
+# Git
+.git/
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# Backup / temporary files
+*.bak
+*.tmp
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local cache
+.cache/
